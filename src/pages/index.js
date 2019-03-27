@@ -20,6 +20,9 @@ const IndexPage = () => (
 
     <h3>Help Us Spread The Word</h3>
     <p>For the meantime as we prepare to launch our official website and replace the contents here, please <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.facebook.com/javascriptcebu" target="_blank" rel="noopener noreferrer">continue sharing our Facebook Page</a> or <a href="https://goo.gl/tB4Uud" target="_blank" rel="noopener noreferrer">join us at JavaScript Cebu Slack</a></p>
+  
+    <h3>Contact Us</h3>
+    <p>Send us a message at our <a href="https://www.facebook.com/javascriptcebu/">Facebook Page</a> or call us <a tel:"+639175614793">+639175614793</a></p>
   </Layout>
 )
 
